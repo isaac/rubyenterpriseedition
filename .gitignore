@@ -1,5 +1,4 @@
 distro/rubygems*.tgz
-ruby-enterprise-*.tar.gz
 fakeroot
 !distro/runtime/*/ruby
 .ext
@@ -49,4 +48,3 @@ ext/dl/dlconfig.rb
 ext/openssl/extconf.h
 ext/win32ole/.document
 distro/version.txt
-/ruby-enterprise-*
